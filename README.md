@@ -1,55 +1,54 @@
-# practical-python
-Practical Python Programming — Пройденный курс
+Practical Python Programming — Completed Course
 
-В этом репозитории находятся мои выполненные работы и упражнения из курса Дэвида Бизли Practical Python Programming
-.
+This repository contains my completed work and exercises from David Beazley’s Practical Python Programming
+ course.
 
-📚 Чему я научился
+📚 What I learned
 
-За время прохождения курса я освоил широкий спектр тем:
+Throughout the course, I covered a wide range of Python topics, including:
 
-Основы Python: числа, строки, файлы, исключения, модули
+Core Python: numbers, strings, files, exceptions, modules
 
-Структуры данных: списки, кортежи, словари, множества
+Data structures: lists, tuples, dictionaries, sets
 
-Организация программ: функции, модули, обработка ошибок, структура скриптов
+Program organization: functions, modules, error handling, script structure
 
-ООП (Объектно-ориентированное программирование): классы, методы, наследование, специальные методы
+Object-Oriented Programming (OOP): classes, methods, inheritance, special methods
 
-Генераторы и итераторы: ленивые вычисления, конвейеры, потоковая обработка данных
+Generators & Iterators: lazy evaluation, pipelines, streaming data
 
-Продвинутые концепции:
+Advanced concepts:
 
-*args и **kwargs
+*args and **kwargs
 
-lambda-функции и замыкания
+lambda functions & closures
 
-декораторы
+decorators
 
-статические и классовые методы
+static & class methods
 
-Тестирование и отладка: unittest, логирование, инструменты отладки и профилирования
+Testing & Debugging: unittest, logging, debugging tools, profiling
 
-Пакеты и распространение кода: пакеты, __init__.py, виртуальные окружения, зависимости
+Packaging & Distribution: packages, __init__.py, virtual environments, dependencies
 
-🎯 Зачем это важно
+🎯 Why this is important
 
-Курс помог мне:
+This course helped me:
 
-Построить твёрдую базу в программировании на Python
+Build a solid foundation in Python programming
 
-Освоить лучшие практики по организации и тестированию кода
+Learn best practices for structuring and testing code
 
-Разобраться как в базовых, так и в продвинутых возможностях Python
+Understand both basic and advanced features of Python
 
-Получить практический опыт, выполнив десятки упражнений
+Gain hands-on experience by completing dozens of exercises
 
-🚀 Следующие шаги
+🚀 Next Steps
 
-Теперь, когда курс завершён, я планирую:
+Now that I’ve finished this course, I plan to:
 
-Применять Python в реальных проектах (автоматизация, анализ данных, веб-разработка)
+Apply Python in real projects (automation, data analysis, web development)
 
-Изучать более продвинутые темы (машинное обучение, асинхронное программирование, Django/FastAPI)
+Continue learning advanced topics (machine learning, async programming, Django/FastAPI)
 
-Делиться своими проектами здесь, на GitHub
+Share more of my projects here on GitHub
